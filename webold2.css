@@ -23,7 +23,6 @@ h1{
 h2{
     margin: 0;
   font-family: "Atkinson Hyperlegible Mono", sans-serif;
-  font-optical-sizing: auto;
   font-weight: bold;
   font-style: normal;
 }
@@ -39,19 +38,19 @@ h2{
 #Design1{
     position: absolute;
     top: 215px;
-    left: 55px;
+    left: 50px;
 }
 
 #Design2{
     position: absolute;
     top: 215px;
-    left: 710px;
+    left: 500px;
 }
 
 #Design3{
     position: absolute;
     top: 215px;
-    left: 1291px;
+    left: 950px;
 }
 
 
