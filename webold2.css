@@ -2,11 +2,23 @@ body{
     background-color:#F2F0EB;
 }
 
+#pagetitle{
+    position: absolute;
+    top: 30px;
+    left: 50px;
+
+}
+
 h1{
     font-size:46px;
     font-family:"Atkinson Hyperlegible Mono", sans-serif;
 }
 
+#subheader{
+    position: absolute;
+    top: 150px;
+    left: 55px;
+}
 
 h2{
     margin: 0;
@@ -43,7 +55,6 @@ h2{
 }
 
 
-
 #textbox1{
     position:absolute;
     top: 700px;
@@ -73,19 +84,6 @@ h2{
     box-sizing: border-box;
 }
     
-
-#subheader{
-    position: absolute;
-    top: 150px;
-    left: 55px;
-}
-
-#pagetitle{
-    position: absolute;
-    top: 30px;
-    left: 50px;
-
-}
 
 #newsletter {
     position: absolute;
