@@ -57,7 +57,7 @@ h2{
 #textbox1{
     position:absolute;
     top: 700px;
-    left:70px;
+    left:55px;
     font-size: 30px;
     border: 5px solid #E5E3D6;
     background-color: #fff;
@@ -69,7 +69,7 @@ h2{
 
 #textbox2 {
     position: absolute;
-    left: 950px;;
+    left: 705px;;
     top: 650px; /* Adjust as needed */
     transform: translateX(-50%);
     width: 400px; /* Match #textbox1 width */
@@ -87,7 +87,7 @@ h2{
 #newsletter {
     position: absolute;
     top: 650px;
-    left:1375px;
+    left:955px;
     font-family: "Atkinson Hyperlegible Mono", sans-serif;
     width: 350px;
     padding: 24px;
